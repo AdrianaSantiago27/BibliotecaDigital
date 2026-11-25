@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bib_primary">#3E2723</color>
+    <color name="bib_on_primary">#FFFFFF</color>
+    <color name="bib_primary_container">#EFEBE9</color>
+    <color name="bib_on_primary_container">#271613</color>
+    <color name="bib_secondary">#6D4C41</color>
+    <color name="bib_on_secondary">#FFFFFF</color>
+    <color name="bib_secondary_container">#F5EFEA</color>
+    <color name="bib_on_secondary_container">#2B1A14</color>
+    <color name="bib_tertiary">#2E7D32</color>
+    <color name="bib_on_tertiary">#FFFFFF</color>
+    <color name="bib_background">#FAF8F5</color>
+    <color name="bib_on_background">#1C1917</color>
+    <color name="bib_surface">#FAF8F5</color>
+    <color name="bib_on_surface">#1C1917</color>
+    <color name="bib_surface_variant">#ECE6E0</color>
+    <color name="bib_on_surface_variant">#4A423D</color>
+    <color name="bib_outline">#857870</color>
+</resources>

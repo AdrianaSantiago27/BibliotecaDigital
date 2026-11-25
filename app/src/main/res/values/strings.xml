@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteca Virtual</string>
+    <string name="version_label">Versión 0.1.0 — Proyecto base y recursos</string>
+    <string name="cd_app_logo">Logotipo de Biblioteca Virtual</string>
+    <string name="cd_portada_ejemplo">Portada de ejemplo de libro</string>
+    <string name="cd_icono_biblioteca">Ícono de biblioteca</string>
+    <string name="cd_icono_favorito">Ícono de favorito</string>
+    <string name="cd_icono_buscar">Ícono de búsqueda</string>
+    <string name="cd_icono_usuario">Ícono de usuario</string>
+    <string name="sample_book_title">Cien años de soledad</string>
+    <string name="sample_book_author">Gabriel García Márquez</string>
+    <string name="sample_book_2_title">El principito</string>
+    <string name="sample_book_2_author">Antoine de Saint-Exupéry</string>
+    <string name="sample_book_3_title">Rayuela</string>
+    <string name="sample_book_3_author">Julio Cortázar</string>
+    <string name="sample_book_4_title">Pedro Páramo</string>
+    <string name="sample_book_4_author">Juan Rulfo</string>
+</resources>
